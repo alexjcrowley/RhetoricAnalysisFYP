@@ -5,7 +5,9 @@ Development of software for the analysis of political rhetoric was undertaken to
 
 There was statistically significant evidence to support the notion that a Prime Minister who has answered more questions is more consistent, however the argument can be made that this is due to the finite number of wordings possible within a topic as well as the Prime Minister's own proclivity to use repeated terms. 
 
-It was also found that there has been an upward trend in answer strength with each consecutive Prime Minister with only Tony Blair lying outside this trend, as well as a general downward trend in consistency with only David Cameron improving in consistency when compared to his predecessor. These results are discussed in detail in the dissertation itself. 
+It was also found that there has been an upward trend in answer strength with each consecutive Prime Minister with only Tony Blair lying outside this trend, as well as a general downward trend in consistency with only David Cameron improving in consistency when compared to his predecessor. These results are discussed in detail in the dissertation itself.
+
+**For results see dissertation pages (bottom-right of page) 16-22 and 37-42.**
 
 ### Disclaimers & Notes
 - I did not create the Cornell Conversational Analysis Toolkit [1] (CCAT henceforth), there is a version of it in the repo as it had to be modified for the needs of this project. The modification made is to allow the CCAT to exit after determining the fragments in the text, skipping all the further analysis, this was necessary to allow the CCAT to deal with small files containing only a single user given question and/or answer. 
