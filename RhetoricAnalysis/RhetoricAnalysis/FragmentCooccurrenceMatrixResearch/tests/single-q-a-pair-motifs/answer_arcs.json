@@ -1,0 +1,4 @@
+{"idx": "2007-07-25b.822.0span0", "arcs": ["by>*", "by_*"], "pair_idx": "2007-07-25b.821.8-q-a-2007-07-25b.822.0span0"}
+{"idx": "2007-07-25b.822.0span1", "arcs": ["visited_*", "said_*", "asked>*", "asked_was", "asked_*", "said_wanted"], "pair_idx": "2007-07-25b.821.8-q-a-2007-07-25b.822.0span1"}
+{"idx": "2007-07-25b.822.0span2", "arcs": ["had_*", "had_tell"], "pair_idx": "2007-07-25b.821.8-q-a-2007-07-25b.822.0span2"}
+{"idx": "2007-07-25b.822.0span3", "arcs": ["is_*", "is_clear"], "pair_idx": "2007-07-25b.821.8-q-a-2007-07-25b.822.0span3"}

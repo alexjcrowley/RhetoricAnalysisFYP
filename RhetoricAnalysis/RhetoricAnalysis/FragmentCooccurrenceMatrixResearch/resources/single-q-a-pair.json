@@ -1,0 +1,51 @@
+[
+    {
+        "asked_tbl": true,
+        "date": "2007-07-25",
+        "govt": "brown",
+        "id": "2007-07-25b.821.8",
+        "is_answer": false,
+        "is_pmq": false,
+        "is_question": true,
+        "is_topical": false,
+        "len_followups": 0,
+        "major_name": "Northern Ireland",
+        "minor_name": "Policing",
+        "num_interjections": 1,
+        "official_name": "Northern Ireland",
+        "pair_idx": "2007-07-25.0.0",
+        "root": "2007-07-25b.821.8",
+        "text": "Plymouth has had some of the most significant new health investment under Labour-the first new dental hospital for 50 years and the first new medical hospital for 25 years. What plans does the Prime Minister have to protect the progress that has been made and the way in which waiting lists have plummeted?",
+        "user": "person/10172",
+        "user-info": {
+            "is_incumbent": false,
+            "is_oppn": false,
+            "party": "dup"
+        }
+    },
+    {
+        "asked_tbl": true,
+        "date": "2007-07-25",
+        "govt": "brown",
+        "id": "2007-07-25b.822.0",
+        "is_answer": true,
+        "is_pmq": false,
+        "is_question": false,
+        "is_topical": false,
+        "len_followups": 0,
+        "major_name": "Northern Ireland",
+        "minor_name": "Policing",
+        "num_interjections": 1,
+        "official_name": "Northern Ireland",
+        "pair_idx": "2007-07-25.0.0",
+        "reply-to": "2007-07-25b.821.8",
+        "root": "2007-07-25b.821.8",
+        "text": "By the time I met them they were all staunch Labour supporters, as a result of the message that we put to them. Yesterday I visited a number of places in Kent and asked people what the major issue affecting them was, and they said that they wanted to secure the recovery. I had to tell people that the Conservative party taking \u00a36 billion out of the economy would put the recovery at risk. The issue is very clear: jobs with Labour, unemployment under the Conservatives.",
+        "user": "person/10232",
+        "user-info": {
+            "is_incumbent": true,
+            "is_oppn": false,
+            "party": "labour"
+        }
+    }
+]
